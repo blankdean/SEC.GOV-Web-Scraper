@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[12]:
-# This program aggregates competitor portfolio data from SEC.GOV, and creates a file with the compiled data calle 'IssuerData.csv'
+# This program aggregates competitor portfolio data from SEC.GOV, and creates a file with the compiled data called 'IssuerData.csv'
 # This data includes REPO (repurchase agreement) portfolios
 
 import bs4 as bs
